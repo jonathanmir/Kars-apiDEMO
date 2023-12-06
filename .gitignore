@@ -1,0 +1,7 @@
+node_modules/
+*lock*
+.vscode
+.env
+yarn.lock
+/dist
+dist
